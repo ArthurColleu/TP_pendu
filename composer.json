@@ -1,0 +1,16 @@
+{
+    "name": "colleua/tp_pendu",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArthurColleu",
+            "email": "colleuarthur@gmail.com"
+        }
+    ],
+    "require": {}
+}
